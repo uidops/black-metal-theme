@@ -1,0 +1,8 @@
+id = "black-metal-theme"
+name = "Black Metal"
+version = "0.1.0"
+schema_version = 1
+description = "Black Metal themes ported from metalelf0/black-metal-theme-neovim. 16 bands x dark/light x alt, plus a transparent-blur variant of every colorscheme."
+authors = ["metalelf0 (original Neovim theme)", "Javad (Zed port)"]
+repository = "https://github.com/uidops/black-metal-theme"
+themes = ["themes/black-metal.json"]
